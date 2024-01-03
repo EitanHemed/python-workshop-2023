@@ -18,7 +18,7 @@ expected to have some understanding of data and statistical analysis, but the wo
 
 
 Largely the workshop consists of two modules:
-1. Fundementals of Python programming (Data types, control flow, functions, etc.)
+1. Fundamentals of Python programming (Data types, control flow, functions, etc.)
 2. Common data analysis tasks using Python (Data manipulation, visualization, statistical analysis, etc.)
 
 
