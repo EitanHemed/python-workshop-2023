@@ -13,7 +13,10 @@
 
 ## Contents
 
-This repository includes the materials used in a two-day workshop taught for graduate students at the University of Haifa (July 2023). Participants are 
+This repository includes the materials used in a two-day workshop taught for graduate students at the University of 
+Haifa on several occasions (10/2021, 07/2023, 07/2024). 
+
+Participants are 
 expected to have some understanding of data and statistical analysis, but the workshop does not assume any prior knowledge of Python or programming in general.
 
 
